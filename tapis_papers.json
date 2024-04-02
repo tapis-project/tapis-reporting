@@ -1,8 +1,6 @@
 [
     {
         "source": "googlescholar",
-        "available_with_id": "eSoWiVQAAAAJ",
-        "pages_needed": 2,
         "papers": [
             {
                 "title": "Tapis: An API platform for reproducible, distributed computational research"
