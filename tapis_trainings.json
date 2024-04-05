@@ -46,17 +46,5 @@
         "forum": "TACC 2022(?) Summmer Institutes",
         "date": "",
         "num_attendees": 28
-    },
-    {
-        "name": "Test Append",
-        "forum": "forum",
-        "date": "2024-04-02",
-        "num_attendees": 10
-    },
-    {
-        "name": "Test Upload",
-        "forum": "TACC",
-        "date": "2024-04-04",
-        "num_attendees": "10"
     }
 ]
