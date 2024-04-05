@@ -1,48 +1,82 @@
 [
     {
-        "source": "googlescholar",
-        "papers": [
-            {
-                "title": "Tapis: An API platform for reproducible, distributed computational research"
-            },
-            {
-                "title": "Tapis api development with python: best practices in scientific rest api implementation: experience implementing a distributed stream api"
-            },
-            {
-                "title": "Round trip: an automated pipeline for experimental design, execution, and analysis"
-            },
-            {
-                "title": "Prediction of whole-cell transcriptional response with machine learning"
-            },
-            {
-                "title": "Real-World, Self-Hosted Kubernetes Experience"
-            },
-            {
-                "title": "Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications"
-            },
-            {
-                "title": "An Interactive Knowledge and Learning Environment in Smart Foodsheds"
-            },
-            {
-                "title": "Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure"
-            },
-            {
-                "title": "Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure"
-            }
-        ]
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Wgm9RuCPnpQJ",
+        "citations": 41,
+        "coauthors": ["M Packard", "A Jamthe"],
+        "primary_author": "J Stubbs",
+        "publication_date": 2021,
+        "publication_source": "Springer",
+        "title": "Tapis: An API platform for reproducible, distributed computational research"
     },
     {
-        "source": "researchgate",
-        "papers": [
-            {
-                "title": "Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform",
-                "primary_author": "Je'Aime Powell",
-                "publication_source": "Science Gateways 2019",
-                "publication_date": 2019,
-                "co_authors": ["Sean B. Cleveland", "Joe Stubbs", "Suzanne A. Pierce", "Michael Daniels"],
-                "citation_url": "https://www.researchgate.net/publication/340875036_Streamed_Data_via_Cloud-Hosted_Real-Time_Data_Services_for_the_Geosciences_as_an_Ingestion_Interface_into_the_Planet_Texas_Science_Gateway_and_Integrated_Modeling_Platform",
-                "citations": 2
-            }
-        ]
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JcyAhrn93fQJ",
+        "citations": 22,
+        "coauthors": ["A Jamthe", "S Padhy", "J Stubbs"],
+        "primary_author": "SB Cleveland",
+        "publication_date": 2020,
+        "publication_source": "dl.acm.org",
+        "title": "Tapis api development with python: best practices in scientific rest api implementation: experience implementing a distributed stream api"
+    },
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4dRqb1jZYHMJ",
+        "citations": 9,
+        "coauthors": ["RP Goldman", "J Beal"],
+        "primary_author": "D Bryce",
+        "publication_date": 2022,
+        "publication_source": "ACS Publications",
+        "title": "Round trip: an automated pipeline for experimental design, execution, and analysis"
+    },
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lRY1cxFIEQUJ",
+        "citations": 8,
+        "coauthors": ["AE Borujeni", "M Weston"],
+        "primary_author": "M Eslami",
+        "publication_date": 2022,
+        "publication_source": "academic.oup.com",
+        "title": "Prediction of whole-cell transcriptional response with machine learning"
+    },
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DOguZw4EE_YJ",
+        "citations": 7,
+        "coauthors": [],
+        "primary_author": "J Stubbs",
+        "publication_date": 2021,
+        "publication_source": "dl.acm.org",
+        "title": "Real-World, Self-Hosted Kubernetes Experience"},
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vmPXB_ciSGUJ",
+        "citations": 2,
+        "coauthors": ["S Marru", "D Mejia", "DS Katz", "K Chard"],
+        "primary_author": "J Stubbs",
+        "publication_date": 2020,
+        "publication_source": "dl.acm.org",
+        "title": "Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications"
+    },
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HLqVK_nVctsJ",
+        "citations": 2,
+        "coauthors": ["A Jamthe", "S Padhy"],
+        "primary_author": "SB Cleveland",
+        "publication_date": 2021,
+        "publication_source": "Wiley Online Library",
+        "title": "Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure"
+    },
+    {
+        "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CbCool2JHYsJ",
+        "citations": 3,
+        "coauthors": ["A Jamthey", "S Padhyy"],
+        "primary_author": "SB Cleveland",
+        "publication_date": 2019,
+        "publication_source": "par.nsf.gov",
+        "title": "Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure"
+    }
+    {
+        "title": "Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform",
+        "primary_author": "Je"Aime Powell",
+        "publication_source": "Science Gateways 2019",
+        "publication_date": 2019,
+        "co_authors": ["Sean B. Cleveland", "Joe Stubbs", "Suzanne A. Pierce", "Michael Daniels"],
+        "citation_url": "https://www.researchgate.net/publication/340875036_Streamed_Data_via_Cloud-Hosted_Real-Time_Data_Services_for_the_Geosciences_as_an_Ingestion_Interface_into_the_Planet_Texas_Science_Gateway_and_Integrated_Modeling_Platform",
+        "citations": 2
     }
 ]
