@@ -2,7 +2,10 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Wgm9RuCPnpQJ",
         "citations": 41,
-        "co_authors": ["M Packard", "A Jamthe"],
+        "co_authors": [
+            "M Packard",
+            "A Jamthe"
+        ],
         "primary_author": "J Stubbs",
         "publication_year": 2021,
         "publication_source": "Springer",
@@ -11,7 +14,11 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JcyAhrn93fQJ",
         "citations": 22,
-        "co_authors": ["A Jamthe", "S Padhy", "J Stubbs"],
+        "co_authors": [
+            "A Jamthe",
+            "S Padhy",
+            "J Stubbs"
+        ],
         "primary_author": "SB Cleveland",
         "publication_year": 2020,
         "publication_source": "dl.acm.org",
@@ -20,7 +27,10 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=4dRqb1jZYHMJ",
         "citations": 9,
-        "co_authors": ["RP Goldman", "J Beal"],
+        "co_authors": [
+            "RP Goldman",
+            "J Beal"
+        ],
         "primary_author": "D Bryce",
         "publication_year": 2022,
         "publication_source": "ACS Publications",
@@ -29,7 +39,10 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lRY1cxFIEQUJ",
         "citations": 8,
-        "co_authors": ["AE Borujeni", "M Weston"],
+        "co_authors": [
+            "AE Borujeni",
+            "M Weston"
+        ],
         "primary_author": "M Eslami",
         "publication_year": 2022,
         "publication_source": "academic.oup.com",
@@ -47,7 +60,12 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vmPXB_ciSGUJ",
         "citations": 2,
-        "co_authors": ["S Marru", "D Mejia", "DS Katz", "K Chard"],
+        "co_authors": [
+            "S Marru",
+            "D Mejia",
+            "DS Katz",
+            "K Chard"
+        ],
         "primary_author": "J Stubbs",
         "publication_year": 2020,
         "publication_source": "dl.acm.org",
@@ -56,16 +74,22 @@
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HLqVK_nVctsJ",
         "citations": 2,
-        "co_authors": ["A Jamthe", "S Padhy"],
+        "co_authors": [
+            "A Jamthe",
+            "S Padhy"
+        ],
         "primary_author": "SB Cleveland",
         "publication_year": 2021,
         "publication_source": "Wiley Online Library",
-        "title": "Tapis v3 Streams API: Time‐series and data‐driven event support in science gateway infrastructure"
+        "title": "Tapis v3 Streams API: Time\u2010series and data\u2010driven event support in science gateway infrastructure"
     },
     {
         "citation_url": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CbCool2JHYsJ",
         "citations": 3,
-        "co_authors": ["A Jamthey", "S Padhyy"],
+        "co_authors": [
+            "A Jamthey",
+            "S Padhyy"
+        ],
         "primary_author": "SB Cleveland",
         "publication_year": 2019,
         "publication_source": "par.nsf.gov",
@@ -76,8 +100,25 @@
         "primary_author": "Je'Aime Powell",
         "publication_source": "Science Gateways 2019",
         "publication_year": 2019,
-        "co_authors": ["Sean B. Cleveland", "Joe Stubbs", "Suzanne A. Pierce", "Michael Daniels"],
+        "co_authors": [
+            "Sean B. Cleveland",
+            "Joe Stubbs",
+            "Suzanne A. Pierce",
+            "Michael Daniels"
+        ],
         "citation_url": "https://www.researchgate.net/publication/340875036_Streamed_Data_via_Cloud-Hosted_Real-Time_Data_Services_for_the_Geosciences_as_an_Ingestion_Interface_into_the_Planet_Texas_Science_Gateway_and_Integrated_Modeling_Platform",
         "citations": 2
+    },
+    {
+        "title": "This Paper Rocks",
+        "primary_author": "Super Writer",
+        "publication_source": "TACC",
+        "publication_year": "2024",
+        "co_authors": [
+            "Writer 1",
+            "Writer 2"
+        ],
+        "citation_url": "google.com",
+        "citations": "10"
     }
 ]
