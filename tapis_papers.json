@@ -108,17 +108,5 @@
         ],
         "citation_url": "https://www.researchgate.net/publication/340875036_Streamed_Data_via_Cloud-Hosted_Real-Time_Data_Services_for_the_Geosciences_as_an_Ingestion_Interface_into_the_Planet_Texas_Science_Gateway_and_Integrated_Modeling_Platform",
         "citations": 2
-    },
-    {
-        "title": "This Paper Rocks",
-        "primary_author": "Super Writer",
-        "publication_source": "TACC",
-        "publication_year": "2024",
-        "co_authors": [
-            "Writer 1",
-            "Writer 2"
-        ],
-        "citation_url": "google.com",
-        "citations": "10"
     }
 ]
