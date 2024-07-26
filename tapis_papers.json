@@ -120,5 +120,17 @@
         ],
         "citation_url": "google.com",
         "citations": "10"
+    },
+    {
+        "title": " Workflow management for scientific research computing with Tapis Workflows: Architecture and Design Decisions behind Software for Research Computing Pipelines.",
+        "primary_author": "Freeman, Nathan Dean",
+        "publication_source": " Practice and Experience in Advanced Research Computing",
+        "publication_year": "2022",
+        "co_authors": [
+            "Stubbs, Joe",
+            "Cardone, Richard"
+        ],
+        "citation_url": "https://doi.org/10.1145/3491418.3535142",
+        "citations": "1"
     }
 ]
