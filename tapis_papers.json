@@ -108,5 +108,17 @@
         ],
         "citation_url": "https://www.researchgate.net/publication/340875036_Streamed_Data_via_Cloud-Hosted_Real-Time_Data_Services_for_the_Geosciences_as_an_Ingestion_Interface_into_the_Planet_Texas_Science_Gateway_and_Integrated_Modeling_Platform",
         "citations": 2
+    },
+    {
+        "title": "Test Paper",
+        "primary_author": "Gilbert Curbelo",
+        "publication_source": "PEARC",
+        "publication_year": "2023",
+        "co_authors": [
+            "Alex",
+            "Fields"
+        ],
+        "citation_url": "google.com",
+        "citations": "10"
     }
 ]
